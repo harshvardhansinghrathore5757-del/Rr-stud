@@ -1,0 +1,6 @@
+{
+  "name": "RR Stud & Equestrian Academy",
+  "description": "Premier horse riding academy, training facility, and Marwari pedigree stud farm in Bhilwara, Rajasthan. Passion meets pedigree.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
